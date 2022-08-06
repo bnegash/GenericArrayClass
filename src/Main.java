@@ -2,7 +2,7 @@
  * The purpose of this class is to demonstrate the functionality of the MyArray.java class.
  * It outputs all the methods defined in the generic class.
  *
- * @author: Bruck Negash,CIN: 305603706,CS-2013,Sections 03 & 04
+ * @author: Bruck Negash
  */
 
 public class Main {
